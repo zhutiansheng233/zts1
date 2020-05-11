@@ -1,10 +1,21 @@
-*          # 忽略全部
-
-!/ch01/    # 不忽略的文件夹
-!/ch02/
-
-!*.c       # 不忽略的文件
-!*.h
-!*.cpp
-!*.md
-!*.txt
+android/
+dotnet/
+ssh/
+templateengine/
+vscode/
+3D对象/
+ansel/
+OneDrive/
+Roaming/
+source/
+保存的游戏/
+联系人/
+链接/
+视频/
+收藏夹/
+搜索/
+图片/
+文档/
+下载/
+音乐/
+桌面/
