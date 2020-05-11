@@ -7,9 +7,9 @@ Videos/
 gitskills/
 learngiting/
 source/
- .bash_history/
-        .gitconfig/
-        3D Objects/
+ .bash_history
+.gitconfig
+3D Objects/
         AppData/
         Contacts/
         Desktop/
