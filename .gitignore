@@ -3,35 +3,7 @@
 .ssh/
 .templateengine/
 .vscode/
-.ansel/
-.OneDrive/
-.Roaming/
-.source/
-.bash_history/
-.gitconfig/
-.3D Objects/
-.AppData/
-.Contacts/
-.Desktop/
-.Documents/
-.Downloads/
-.Favorites/
-.IntelGraphicsProfiles/
-.Links/
-.MicrosoftEdgeBackups/
-.Music/
-.NTUSER.DAT/
-.NTUSER.DAT{55fc3091-883b-11ea-a8a0-fed3ee82f51d}.TM.blf/
-.NTUSER.DAT{55fc3091-883b-11ea-a8a0-fed3ee82f51d}.TMContainer00000000000000000001.regtrans-ms/
-.NTUSER.DAT{55fc3091-883b-11ea-a8a0-fed3ee82f51d}.TMContainer00000000000000000002.regtrans-ms/
-.OneDrive/
-.Pictures/
-.Saved Games/
-.Searches/
 .Videos/
 .gitskills/
 .learngiting/
-.ntuser.dat.LOG1/
-.ntuser.dat.LOG2/
-.ntuser.ini
 .source/
