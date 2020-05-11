@@ -3,19 +3,35 @@
 .ssh/
 .templateengine/
 .vscode/
-.3D对象/
 .ansel/
 .OneDrive/
 .Roaming/
 .source/
-.保存的游戏/
-.联系人/
-.链接/
-.视频/
-.收藏夹/
-.搜索/
-.图片/
-.文档/
-.下载/
-.音乐/
-.桌面/
+.bash_history
+        .gitconfig/
+        3D Objects/
+        AppData/
+        Contacts/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        Links/
+        MicrosoftEdgeBackups/
+        Music/
+        NTUSER.DAT/
+        NTUSER.DAT{55fc3091-883b-11ea-a8a0-fed3ee82f51d}.TM.blf/
+        NTUSER.DAT{55fc3091-883b-11ea-a8a0-fed3ee82f51d}.TMContainer00000000000000000001.regtrans-ms/
+        NTUSER.DAT{55fc3091-883b-11ea-a8a0-fed3ee82f51d}.TMContainer00000000000000000002.regtrans-ms/
+        OneDrive/
+        Pictures/
+        Saved Games/
+        Searches/
+        Videos/
+        gitskills/
+        learngiting/
+        ntuser.dat.LOG1/
+        ntuser.dat.LOG2/
+        ntuser.ini
+        source/
